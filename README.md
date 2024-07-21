@@ -21,7 +21,7 @@
 <h1>Installation</h1>
 
 <h2>Clone the repository:</h2>
-<h3>git clone https://github.com/yourusername/Foodie_we.git</h3>
+<h3>git clone https://github.com/Mohit0205ms/Foodie_we.git</h3>
 
 <h2>Navigate to the project directory:</h2>
 <h3>cd Foodie_we</h3>
